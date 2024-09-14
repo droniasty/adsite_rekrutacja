@@ -8,7 +8,7 @@ const GalleryBlock = () => {
     gap-0 border-t border-t-[1px]  overflow-hidden flex flex-col items-center justify-between
     ">
       <div className="flex justify-center">
-        <Images /> {/* Image section */}
+        <Images /> 
       </div>
         <Navigation />
     </div>
