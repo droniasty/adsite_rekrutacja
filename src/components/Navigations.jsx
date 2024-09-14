@@ -1,5 +1,5 @@
 import React from 'react'
-import CarSpot from './assets/images/my-image.png';
+import CarSpot from './assets/CarSpot.png';
 
 const Navigations = () => {
   return (
